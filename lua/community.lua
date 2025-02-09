@@ -19,5 +19,10 @@ return {
   { import = "astrocommunity.colorscheme.cyberdream-nvim" },
   { import = "astrocommunity.colorscheme.rose-pine" },
   { import = "astrocommunity.color.transparent-nvim" },
+  -- scrolling
+  { import = "astrocommunity.scrolling.neoscroll-nvim" },
+  { import = "astrocommunity.scrolling.mini-animate" },
+  -- file explorer
+  { import = "astrocommunity.file-explorer.oil-nvim" },
   -- import/override with your plugins folder
 }
