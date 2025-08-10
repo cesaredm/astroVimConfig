@@ -13,7 +13,7 @@ return {
           ["<C-j>"] = { "10<C-e>", desc = "Moverse de 10 lineas hacia abajo" },
           ["<leader>s"] = { "<Plug>(easymotion-s2)", desc = "" },
           ["<leader>nf"] = { "<cmd>Neotree toggle position=float<cr>", desc = "Neotree ventana flotante" },
-          ["<leader>np"] = { "<cmd>Neotree position=current<cr>", desc = "Neotree pantalla completa" },
+          --["<leader>np"] = { "<cmd>Neotree position=current<cr>", desc = "Neotree pantalla completa" },
 
           -- Custom mappings for scrolling with centering
           ["<C-d>"] = { "<C-d>zz", desc = "Scroll down half a page and center the cursor" },

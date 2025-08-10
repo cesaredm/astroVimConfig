@@ -18,6 +18,10 @@ return {
   { import = "astrocommunity.colorscheme.monokai-pro-nvim" },
   { import = "astrocommunity.colorscheme.cyberdream-nvim" },
   { import = "astrocommunity.colorscheme.rose-pine" },
+  { import = "astrocommunity.colorscheme.kanagawa-nvim" },
+  { import = "astrocommunity.colorscheme.gruvbox-baby" },
+  { import = "astrocommunity.colorscheme.night-owl-nvim" },
+
   { import = "astrocommunity.color.transparent-nvim" },
   -- scrolling
   { import = "astrocommunity.scrolling.neoscroll-nvim" },
